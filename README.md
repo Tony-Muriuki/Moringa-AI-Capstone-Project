@@ -26,9 +26,6 @@ A simple command-line budget tracker built with Rust to demonstrate basic langua
    git clone <your-repo-url>
    cd rust_beginner_project
 
-   # Or create manually
-   mkdir rust_beginner_project
-   cd rust_beginner_project
    ```
 
 2. **Run the project**
