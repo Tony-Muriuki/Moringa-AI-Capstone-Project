@@ -1,0 +1,11 @@
+[package]
+name = "rust_beginner_project"
+version = "0.1.0"
+edition = "2021"
+authors = ["Your Name <your.email@example.com>"]
+description = "A beginner-friendly budget tracker to learn Rust basics"
+
+[[bin]]
+name = "budget_tracker"
+path = "src/main.rs"
+
