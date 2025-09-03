@@ -1,6 +1,4 @@
-# Moringa-AI-Capstone-Project
-
-# Rust Beginner Project: Personal Budget Tracker
+# Moringa-AI-Capstone-Project || Rust Beginner Project: Personal Budget Tracker
 
 A simple command-line budget tracker built with Rust to demonstrate basic language concepts.
 
@@ -100,4 +98,3 @@ rust_beginner_project/
 
 - Restart your terminal after installing Rust
 - Run `source ~/.cargo/env` on Linux/Mac
-# Moringa-AI-Capstone-Project
