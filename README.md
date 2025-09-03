@@ -31,13 +31,7 @@ A simple command-line budget tracker built with Rust to demonstrate basic langua
    cd rust_beginner_project
    ```
 
-2. **Copy the files**
-
-   - Copy `Cargo.toml` to the root directory
-   - Create `src/` directory
-   - Copy `main.rs` to `src/main.rs`
-
-3. **Run the project**
+2. **Run the project**
    ```bash
    cargo run
    ```
